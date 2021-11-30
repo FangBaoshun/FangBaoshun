@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FangBaoshun
 - 👀 I’m interested in CPU programing
-- 🌱 I’m currently learning <A Quantitative Approach>
+- 🌱 I’m currently learning 'A Quantitative Approach'
 - 💞️ I’m looking to collaborate on CPU vulnerability POC
 - 📫 Mail: fangbaos@gmail.com
 
